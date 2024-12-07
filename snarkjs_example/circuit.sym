@@ -1,0 +1,10 @@
+1,1,0,main.isValid
+2,-1,0,main.age
+3,-1,0,main.min_age
+4,-1,0,main.max_age
+5,-1,0,main.diffMin
+6,-1,0,main.diffMax
+7,2,0,main.isGreaterOrEqual
+8,-1,0,main.nonNegativeDiffMin
+9,3,0,main.isLessOrEqual
+10,-1,0,main.nonNegativeDiffMax
